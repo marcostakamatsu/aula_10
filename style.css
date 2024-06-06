@@ -1,0 +1,29 @@
+.desafio1
+{
+    color: #5c5c5c;
+    text-align: center;
+padding: 20px;
+}
+
+#lista1
+{
+    font-size: 30px;
+    background-color: #D67300;
+}
+
+#lista2
+{
+    list-style: none;
+    font-size: 15px;
+    background-color: #0031d15e;
+}
+
+body
+{
+    background-color: #dadada;
+}
+
+#navbar
+{
+    background-color: #6b3900;
+}
